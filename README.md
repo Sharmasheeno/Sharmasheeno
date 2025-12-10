@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Sharmasheeno&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
@@ -17,7 +17,7 @@
 ### 🏆 Achievements & Trophies
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=15" width="100%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Sharmasheeno&theme=radical&no-frame=true&no-bg=true&margin-w=15" width="100%" />
   </a>
 </div>
 
@@ -47,16 +47,16 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" alt="Sharmake's Stats" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Sharmasheeno&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" alt="Sharmake's Stats" width="100%" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharmasheeno&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="100%" />
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=radical&hide_border=true&background=0D1117" alt="Streak Stats" width="80%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sharmasheeno&theme=radical&hide_border=true&background=0D1117" alt="Streak Stats" width="80%" />
   <br/><br/>
   <img src="https://user-images.githubusercontent.com/74038190/212284100-56154483-9712-4775-b9e1-365406738989.gif" width="100%" alt="Coding Animation" />
 </div>

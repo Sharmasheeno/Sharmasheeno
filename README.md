@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m a **Final year student** pursuing a **B. Tech.** degree from **JUST**,in **CSE** and doing my **Honors in DS**
+- 🔭 I’m a **Final year student** pursuing a **B. Tech.** degree from **JUST**,in **CSE** and doing my **Honors in DS** and share my **knowledge** on https://youtube.com/@barkaabe
 - 🎯 Passionate about **DS | ML | DL | LLMs | GenAI | MERN Stack | Python**
 - 🌱 Currently learning **Data science & Machine learning, and model Deployment** & **Junior Mobile Developer** **Flutter*
 - 💡 Open to collaborating on **MERN Stack projects, AI applications & Open-Source contributions**
